@@ -21,6 +21,7 @@ mvn clean test
 * open report.html in any browser. 
 
 ### Generated Reports
+![image](https://user-images.githubusercontent.com/41513761/223740041-eea0bc83-6510-4367-8555-59f3bd92f64f.png)
 
 
 #### Feedback
